@@ -1,0 +1,51 @@
+
+
+Tests for "home page":
+----------
+//1.Check enter with valid username & password
+//2.Check enter with valid username $ invalid password
+//3.Check enter with invalid username & valid password
+4.Check the "show performance" button with positive balance
+5.Check the "show performance" button with negative balance
+6.Check the "show performance" button with equal balance
+7.Check the "Delete all sales entries" button
+8.Check link "Robocorp" in site presentation
+9.Check link "visit us" in site presentation
+
+Tests for "Order your robots!" without Login:
+-------------------
+1.Check "OK" button on refusal window
+2.Check "Yep" button on refusal window
+3.Check "I guess so..." button on refusal window
+4.Check "No way!" button on refusal window
+5.Check "Show model info" button
+6.Check "Hide model info" button
+7.Order a robot with "Head", "Body", "Legs" and adress
+9.Order a robot without "Head"
+10.Order a robot without "Body"
+11.Order a robot without "Legs"
+11.Order a robot with "Legs" more than 6
+11.Order a robot with "Legs" less than 1
+12.Order a robot without an adress
+13.Prevew a robot with different "Head" and "Body"
+13.Prevew a robot with "Head", "Body" and different "Legs"
+14.Check "Order Another Robot" button
+
+Tests for "Order your robots!" with Login:
+-------------------
+1.Check "OK" button on refusal window
+2.Check "Yep" button on refusal window
+3.Check "I guess so..." button on refusal window
+4.Check "No way!" button on refusal window
+5.Check "Show model info" button
+6.Check "Hide model info" button
+7.Order a robot with "Head", "Body", "Legs" and adress
+9.Order a robot without "Head"
+10.Order a robot without "Body"
+11.Order a robot without "Legs"
+11.Order a robot with "Legs" more than 6
+11.Order a robot with "Legs" less than 1
+12.Order a robot without an adress
+13.Prevew a robot with different "Head" and "Body"
+13.Prevew a robot with "Head", "Body" and different "Legs"
+14.Check "Order Another Robot" button
